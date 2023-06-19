@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6A1E-86A1
+
+ Directory of C:\Users\palem\OneDrive\Desktop\isha
+
+06/19/2023  10:46 AM    <DIR>          .
+06/19/2023  10:44 AM    <DIR>          ..
+06/19/2023  10:46 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  236,583,813,120 bytes free
